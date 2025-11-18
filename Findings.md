@@ -28,7 +28,7 @@ Horizontal bars accommodate long country names without rotation and make magnitu
 
 ---
 
-## Plot 2: Mortality Rate vs Recovery Rate (Scatter Chart)
+## Plot 2: Mortality Rate vs Recovery Rate (Scatter plot)
 **Visualization Type:** Scatter Plot with Bubble Size
 
 ### Key Findings
