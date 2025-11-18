@@ -28,7 +28,7 @@ Horizontal bars accommodate long country names without rotation and make magnitu
 
 ---
 
-## Plot 2: Mortality Rate vs Recovery Rate (Bubble Chart)
+## Plot 2: Mortality Rate vs Recovery Rate (Scatter Chart)
 **Visualization Type:** Scatter Plot with Bubble Size
 
 ### Key Findings
@@ -194,7 +194,7 @@ The negative correlation between recovery and mortality rates offers hope: impro
 ## Technical Notes
 
 **Software:** R (ggplot2, dplyr, tidyr, scales)  
-**Visualization Philosophy:** Following data-to-viz.com and R Graph Gallery's best practices   
+**Visualization referred websites:** Following data-to-viz.com and R Graph Gallery's best practices   
 **Color Schemes:** ColorBrewer palettes chosen for color-blind accessibility  
 
 ---
