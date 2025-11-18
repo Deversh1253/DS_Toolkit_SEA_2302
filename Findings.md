@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis: Key Findings 
-**Student ID:** SEA-2302  
+**Student Name:** Deversh Shetgaonkar  
 **Dataset:** Country-wise COVID-19 Latest Statistics  
-**Analysis Date:** Based on snapshot data
+
 
 ---
 
